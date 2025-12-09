@@ -34,7 +34,7 @@ This app contains Home Page, Settings page, About Us Page, Side Navigation Bar w
 
 It features a beautiful and visually appealing UI design. The app's UI is fully responsive, adapting smoothly to various screen sizes for an optimal viewing experience across different devices.
 
-**Home Screen** – contains various news stories with share button. Tapping the card gives user pop up choice to open the user story in the browser.
+**Home Screen** – contains various news stories with share button. Tapping the card gives user pop up choice to open the user story in the browser.  
 **Settings Screen** – gives user choice to go with preferences               
 **About Us Screen** – with some information                                    
 **Side Navigation Bar** – gives user option to view news story according to the users choice
