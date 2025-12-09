@@ -45,6 +45,7 @@ It features a beautiful and visually appealing UI design. The app's UI is fully 
 
  <img src="pic1.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="pic2.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="pic6.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="pic4.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="pic5.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="pic3.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="pic5.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
