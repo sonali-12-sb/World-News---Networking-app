@@ -26,6 +26,7 @@ The app must include the following:
 ✔ Doing network operations independent of the Activity lifecycle: Networking operations are done using a Loader rather than an AsyncTask.                
 ✔ Use Uri.Builder class to add query parameters to the URL      
 
+---
 
 ## 📱 Screens of the App
 
