@@ -38,3 +38,7 @@ Home Page – contains various news stories with share button. Tapping the card 
 **Settings page** – gives user choice to go with preferences               
 **About Us Page** – with some information                                    
 **Side Navigation Bar** – gives user option to view news story according to the users choice
+
+---
+
+### 🖼️ Screenshots  
